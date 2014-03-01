@@ -38,6 +38,10 @@ Or install it yourself as:
 # => "#606BE5"
 ```
 
+![wow](https://raw.github.com/jurre/hashtel/master/img/wow.png)
+![very color](https://raw.github.com/jurre/hashtel/master/img/very-color.png)
+![such pretty](https://raw.github.com/jurre/hashtel/master/img/such-pretty.png)
+
 ## Contributing
 
 1. Fork it ( http://github.com/jurre/hashtel/fork )
