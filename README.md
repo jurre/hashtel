@@ -8,6 +8,8 @@ are consistent throughout your application.
 Some ideas to use this for: users without avatars,
 charts, categories etc.
 
+Objective-C and Javascript versions are coming soon.
+
 ## Installation
 
 Add this line to your application's Gemfile:
