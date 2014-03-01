@@ -42,6 +42,9 @@ Or install it yourself as:
 ![very color](https://raw.github.com/jurre/hashtel/master/img/very-color.png)
 ![such pretty](https://raw.github.com/jurre/hashtel/master/img/such-pretty.png)
 
+Example usage:
+![Hours](https://raw.github.com/jurre/hashtel/master/img/example.png)
+
 ## Contributing
 
 1. Fork it ( http://github.com/jurre/hashtel/fork )
