@@ -8,7 +8,7 @@ are consistent throughout your application.
 Some ideas to use this for: users without avatars,
 charts, categories etc.
 
-Objective-C and Javascript versions are coming soon.
+There's also an [Objective-C](https://github.com/jurre/hashtel-objc) version.
 
 ## Installation
 
