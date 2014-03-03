@@ -3,7 +3,7 @@ require "hashtel"
 HEX_COLOR_MAX_INTEGER = 16777215
 
 describe String do
-  describe ".pastel_color" do
+  describe "#pastel_color" do
     it "returns a valid hex color" do
       random_string = (0...rand(50)).map { ("a".."z").to_a[rand(26)] }.join
       expect(hex_value(random_string)).to be_between(0, HEX_COLOR_MAX_INTEGER)
