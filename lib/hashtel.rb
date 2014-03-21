@@ -5,9 +5,7 @@ module Hashtel
   def self.pastel_color(string)
     return "#FFFFFF" if string == ""
 
-    hex_value = hashtel_hex_value(string)
-
-    "##{hex_value}".upcase
+    "##{hashtel_hex_value(string)}".upcase
   end
 
 
