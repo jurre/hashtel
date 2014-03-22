@@ -18,7 +18,7 @@ module Hashtel
     total_offset = 156
 
     [0,
-     hashtel_hash_code(string) % total_offset,
+     hashtel_hash_code(string) % 255,
      hashtel_hash_code(string.reverse) & total_offset,
      total_offset].sort.each_cons(2).map do |a, b|
        "%02x" % (start_color + b - a)
